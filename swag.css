@@ -1,0 +1,39 @@
+body {
+  background-color: #1e1e1e;
+  color: #fff;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-size: 400%;
+  margin-bottom: 0;
+}
+
+button {
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 0.35em 1.2em;
+  border: 0.1em solid #fff;
+  border-radius: 0.2em;
+  width: 10em;
+  transition: all 0.2s;
+}
+
+button:hover {
+  background-color: #fff;
+  color: #1e1e1e;
+}
+
+hr {
+  margin: 2em;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  font-size: 2em;
+  list-style: none;
+}
